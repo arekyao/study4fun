@@ -1,0 +1,253 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BaggingFromMatrix	pymining/math/matrix.py	/^    def BaggingFromMatrix(mat, m):$/;"	m	class:Matrix
+ChiSquareFilter	naive_bayes_only_test.py	/^from pymining.preprocessor.chisquare_filter import ChiSquareFilter$/;"	i
+ChiSquareFilter	naive_bayes_train_test.py	/^from pymining.preprocessor.chisquare_filter import ChiSquareFilter$/;"	i
+ChiSquareFilter	naive_bayes_train_test_bysample.py	/^from pymining.preprocessor.chisquare_filter import ChiSquareFilter$/;"	i
+ChiSquareFilter	pca_matplot_example.py	/^from pymining.preprocessor.chisquare_filter import ChiSquareFilter$/;"	i
+ChiSquareFilter	pymining/preprocessor/chisquare_filter.py	/^class ChiSquareFilter:$/;"	c
+ChiSquareFilter	twc_naive_bayes_train_test.py	/^from pymining.preprocessor.chisquare_filter import ChiSquareFilter$/;"	i
+ChiSquareFilter	twc_naive_bayes_train_test_bysample.py	/^from pymining.preprocessor.chisquare_filter import ChiSquareFilter$/;"	i
+Cluster	pymining/clustering/kmeans.py	/^    def Cluster(self, x, k):$/;"	m	class:Kmeans
+Configuration	kmeans_test.py	/^from pymining.common.configuration import Configuration $/;"	i
+Configuration	naive_bayes_only_test.py	/^from pymining.common.configuration import Configuration$/;"	i
+Configuration	naive_bayes_train_test.py	/^from pymining.common.configuration import Configuration$/;"	i
+Configuration	naive_bayes_train_test_bysample.py	/^from pymining.common.configuration import Configuration$/;"	i
+Configuration	pca_matplot_example.py	/^from pymining.common.configuration import Configuration$/;"	i
+Configuration	pca_test.py	/^from pymining.common.configuration import Configuration$/;"	i
+Configuration	pymining/classifier/naive_bayes.py	/^from ..common.configuration import Configuration $/;"	i
+Configuration	pymining/classifier/twc_naive_bayes.py	/^from ..common.configuration import Configuration $/;"	i
+Configuration	pymining/clustering/kmeans.py	/^from ..common.configuration import Configuration $/;"	i
+Configuration	pymining/common/configuration.py	/^class Configuration:$/;"	c
+Configuration	pymining/math/text2matrix.py	/^from ..common.configuration import Configuration$/;"	i
+Configuration	pymining/nlp/segmenter.py	/^from ..common.configuration import Configuration$/;"	i
+Configuration	pymining/preprocessor/chisquare_filter.py	/^from ..common.configuration import Configuration$/;"	i
+Configuration	twc_naive_bayes_train_test.py	/^from pymining.common.configuration import Configuration $/;"	i
+Configuration	twc_naive_bayes_train_test_bysample.py	/^from pymining.common.configuration import Configuration $/;"	i
+CreatePredictMatrix	pymining/math/text2matrix.py	/^    def CreatePredictMatrix(self, path = ""):$/;"	m	class:Text2Matrix
+CreatePredictSample	pymining/math/text2matrix.py	/^    def CreatePredictSample(self, src):$/;"	m	class:Text2Matrix
+CreateTrainMatrix	pymining/math/text2matrix.py	/^    def CreateTrainMatrix(self, path = ""):$/;"	m	class:Text2Matrix
+CsrToMatrix	pymining/math/scipy_interface.py	/^    def CsrToMatrix(csrSource):$/;"	m	class:ScipyInterface
+FromFile	pymining/common/configuration.py	/^    def FromFile(path):$/;"	m	class:Configuration
+Get	pymining/math/matrix.py	/^    def Get(self, x, y):$/;"	m	class:Matrix
+GetChild	pymining/common/configuration.py	/^    def GetChild(self, name):$/;"	m	class:Configuration
+GetChilds	pymining/common/configuration.py	/^    def GetChilds(self, name):$/;"	m	class:Configuration
+GetName	pymining/common/configuration.py	/^    def GetName(self):$/;"	m	class:Configuration
+GetPrinComp	pymining/math/pca.py	/^    def GetPrinComp(self, sourceMat, spaceParam):$/;"	m	class:Pca
+GetValue	pymining/common/configuration.py	/^    def GetValue(self):$/;"	m	class:Configuration
+GlobalInfo	kmeans_test.py	/^from pymining.common.global_info import GlobalInfo$/;"	i
+GlobalInfo	naive_bayes_only_test.py	/^from pymining.common.global_info import GlobalInfo$/;"	i
+GlobalInfo	naive_bayes_train_test.py	/^from pymining.common.global_info import GlobalInfo$/;"	i
+GlobalInfo	naive_bayes_train_test_bysample.py	/^from pymining.common.global_info import GlobalInfo$/;"	i
+GlobalInfo	pca_matplot_example.py	/^from pymining.common.global_info import GlobalInfo$/;"	i
+GlobalInfo	pca_test.py	/^from pymining.common.global_info import GlobalInfo$/;"	i
+GlobalInfo	pymining/classifier/naive_bayes.py	/^from ..common.global_info import GlobalInfo$/;"	i
+GlobalInfo	pymining/classifier/twc_naive_bayes.py	/^from ..common.global_info import GlobalInfo$/;"	i
+GlobalInfo	pymining/clustering/kmeans.py	/^from ..common.global_info import GlobalInfo$/;"	i
+GlobalInfo	pymining/common/global_info.py	/^class GlobalInfo:$/;"	c
+GlobalInfo	pymining/math/text2matrix.py	/^from ..common.global_info import GlobalInfo$/;"	i
+GlobalInfo	pymining/preprocessor/chisquare_filter.py	/^from ..common.global_info import GlobalInfo$/;"	i
+GlobalInfo	twc_naive_bayes_train_test.py	/^from pymining.common.global_info import GlobalInfo$/;"	i
+GlobalInfo	twc_naive_bayes_train_test_bysample.py	/^from pymining.common.global_info import GlobalInfo$/;"	i
+Init	pymining/common/global_info.py	/^    def Init(config, nodeName, loadFromFile = False):$/;"	m	class:GlobalInfo
+Kmeans	kmeans_test.py	/^from pymining.clustering.kmeans import Kmeans$/;"	i
+Kmeans	pymining/clustering/kmeans.py	/^class Kmeans:$/;"	c
+LoadMainDict	pymining/nlp/segmenter.py	/^    def LoadMainDict(self, path):$/;"	m	class:Segmenter
+Matrix	kmeans_test.py	/^from pymining.math.matrix import Matrix$/;"	i
+Matrix	naive_bayes_only_test.py	/^from pymining.math.matrix import Matrix$/;"	i
+Matrix	naive_bayes_train_test.py	/^from pymining.math.matrix import Matrix$/;"	i
+Matrix	naive_bayes_train_test_bysample.py	/^from pymining.math.matrix import Matrix$/;"	i
+Matrix	pca_matplot_example.py	/^from pymining.math.matrix import Matrix$/;"	i
+Matrix	pca_test.py	/^from pymining.math.matrix import Matrix$/;"	i
+Matrix	pymining/classifier/naive_bayes.py	/^from ..math.matrix import Matrix$/;"	i
+Matrix	pymining/classifier/twc_naive_bayes.py	/^from ..math.matrix import Matrix$/;"	i
+Matrix	pymining/clustering/kmeans.py	/^from ..math.matrix import Matrix$/;"	i
+Matrix	pymining/math/matrix.py	/^class Matrix:$/;"	c
+Matrix	pymining/math/scipy_interface.py	/^from matrix import Matrix$/;"	i
+Matrix	pymining/math/text2matrix.py	/^from ..math.matrix import Matrix$/;"	i
+Matrix	pymining/preprocessor/chisquare_filter.py	/^from ..math.matrix import Matrix$/;"	i
+Matrix	twc_naive_bayes_train_test.py	/^from pymining.math.matrix import Matrix$/;"	i
+Matrix	twc_naive_bayes_train_test_bysample.py	/^from pymining.math.matrix import Matrix$/;"	i
+MatrixFilter	pymining/preprocessor/chisquare_filter.py	/^    def MatrixFilter(self, x, y):$/;"	m	class:ChiSquareFilter
+MatrixToCsr	pymining/math/scipy_interface.py	/^    def MatrixToCsr(mat):$/;"	m	class:ScipyInterface
+NaiveBayes	naive_bayes_only_test.py	/^from pymining.classifier.naive_bayes import NaiveBayes$/;"	i
+NaiveBayes	naive_bayes_train_test.py	/^from pymining.classifier.naive_bayes import NaiveBayes$/;"	i
+NaiveBayes	naive_bayes_train_test_bysample.py	/^from pymining.classifier.naive_bayes import NaiveBayes$/;"	i
+NaiveBayes	pymining/classifier/naive_bayes.py	/^class NaiveBayes:$/;"	c
+Pca	pca_matplot_example.py	/^from pymining.math.pca import Pca$/;"	i
+Pca	pca_test.py	/^from pymining.math.pca import Pca$/;"	i
+Pca	pymining/math/pca.py	/^class Pca:$/;"	c
+ReadDict	pymining/common/global_info.py	/^    def ReadDict(dic, nodeName):$/;"	m	class:GlobalInfo
+SampleFilter	pymining/preprocessor/chisquare_filter.py	/^    def SampleFilter(self, cols, vals):$/;"	m	class:ChiSquareFilter
+ScipyInterface	pymining/math/scipy_interface.py	/^class ScipyInterface:$/;"	c
+Segmenter	kmeans_test.py	/^from pymining.nlp.segmenter import Segmenter$/;"	i
+Segmenter	naive_bayes_only_test.py	/^from pymining.nlp.segmenter import Segmenter$/;"	i
+Segmenter	naive_bayes_train_test.py	/^from pymining.nlp.segmenter import Segmenter$/;"	i
+Segmenter	naive_bayes_train_test_bysample.py	/^from pymining.nlp.segmenter import Segmenter$/;"	i
+Segmenter	pymining/classifier/naive_bayes.py	/^from ..nlp.segmenter import Segmenter$/;"	i
+Segmenter	pymining/classifier/twc_naive_bayes.py	/^from ..nlp.segmenter import Segmenter$/;"	i
+Segmenter	pymining/clustering/kmeans.py	/^from ..nlp.segmenter import Segmenter$/;"	i
+Segmenter	pymining/math/text2matrix.py	/^from ..nlp.segmenter import Segmenter$/;"	i
+Segmenter	pymining/nlp/segmenter.py	/^class Segmenter:$/;"	c
+Segmenter	pymining/preprocessor/chisquare_filter.py	/^from ..nlp.segmenter import Segmenter$/;"	i
+Segmenter	twc_naive_bayes_train_test.py	/^from pymining.nlp.segmenter import Segmenter$/;"	i
+Segmenter	twc_naive_bayes_train_test_bysample.py	/^from pymining.nlp.segmenter import Segmenter$/;"	i
+Split	pymining/nlp/segmenter.py	/^    def Split(self, line):$/;"	m	class:Segmenter
+Test	pymining/classifier/naive_bayes.py	/^    def Test(self, x, y):$/;"	m	class:NaiveBayes
+TestMatrix	pymining/classifier/twc_naive_bayes.py	/^    def TestMatrix(self, x, y = None):$/;"	m	class:TwcNaiveBayes
+TestSample	pymining/classifier/naive_bayes.py	/^    def TestSample(self, cols, vals):$/;"	m	class:NaiveBayes
+TestSample	pymining/classifier/twc_naive_bayes.py	/^    def TestSample(self, cols, vals):$/;"	m	class:TwcNaiveBayes
+Text2Matrix	kmeans_test.py	/^from pymining.math.text2matrix import Text2Matrix$/;"	i
+Text2Matrix	naive_bayes_only_test.py	/^from pymining.math.text2matrix import Text2Matrix$/;"	i
+Text2Matrix	naive_bayes_train_test.py	/^from pymining.math.text2matrix import Text2Matrix$/;"	i
+Text2Matrix	naive_bayes_train_test_bysample.py	/^from pymining.math.text2matrix import Text2Matrix$/;"	i
+Text2Matrix	pca_matplot_example.py	/^from pymining.math.text2matrix import Text2Matrix$/;"	i
+Text2Matrix	pca_test.py	/^from pymining.math.text2matrix import Text2Matrix$/;"	i
+Text2Matrix	pymining/classifier/naive_bayes.py	/^from ..math.text2matrix import Text2Matrix$/;"	i
+Text2Matrix	pymining/classifier/twc_naive_bayes.py	/^from ..math.text2matrix import Text2Matrix$/;"	i
+Text2Matrix	pymining/clustering/kmeans.py	/^from ..math.text2matrix import Text2Matrix$/;"	i
+Text2Matrix	pymining/math/text2matrix.py	/^class Text2Matrix:$/;"	c
+Text2Matrix	pymining/preprocessor/chisquare_filter.py	/^from ..math.text2matrix import Text2Matrix$/;"	i
+Text2Matrix	twc_naive_bayes_train_test.py	/^from pymining.math.text2matrix import Text2Matrix$/;"	i
+Text2Matrix	twc_naive_bayes_train_test_bysample.py	/^from pymining.math.text2matrix import Text2Matrix$/;"	i
+Train	pymining/classifier/naive_bayes.py	/^    def Train(self, x, y):$/;"	m	class:NaiveBayes
+Train	pymining/classifier/twc_naive_bayes.py	/^    def Train(self, x, y):$/;"	m	class:TwcNaiveBayes
+TrainFilter	pymining/preprocessor/chisquare_filter.py	/^    def TrainFilter(self, x, y):$/;"	m	class:ChiSquareFilter
+TrainPrinComp	pymining/math/pca.py	/^    def TrainPrinComp(self, x, k, colSpace = True, rowSpace = False):$/;"	m	class:Pca
+Transpose	pymining/math/matrix.py	/^    def Transpose(self):$/;"	m	class:Tripple
+Transpose	pymining/math/matrix.py	/^    def Transpose(self, nNewRow):$/;"	m	class:Matrix
+Tripple	pymining/math/matrix.py	/^class Tripple:$/;"	c
+TrippleCmp	pymining/math/matrix.py	/^def TrippleCmp(t1, t2):$/;"	f
+TwcNaiveBayes	pymining/classifier/twc_naive_bayes.py	/^class TwcNaiveBayes:$/;"	c
+TwcNaiveBayes	twc_naive_bayes_train_test.py	/^from pymining.classifier.twc_naive_bayes import TwcNaiveBayes$/;"	i
+TwcNaiveBayes	twc_naive_bayes_train_test_bysample.py	/^from pymining.classifier.twc_naive_bayes import TwcNaiveBayes$/;"	i
+Write	pymining/common/global_info.py	/^    def Write():$/;"	m	class:GlobalInfo
+WriteDict	pymining/common/global_info.py	/^    def WriteDict(dic, nodeName):$/;"	m	class:GlobalInfo
+__CalculateCost	pymining/clustering/kmeans.py	/^    def __CalculateCost(self, kk, x, r):$/;"	m	class:Kmeans	file:
+__CalculateMeans	pymining/clustering/kmeans.py	/^    def __CalculateMeans(self, x, k):$/;"	m	class:Kmeans	file:
+__GetBestTarget	pymining/classifier/twc_naive_bayes.py	/^    def __GetBestTarget(self, cols, vals):$/;"	m	class:TwcNaiveBayes	file:
+__InitMeans	pymining/clustering/kmeans.py	/^    def __InitMeans(self, x, k):$/;"	m	class:Kmeans	file:
+__ReadDict	pymining/common/global_info.py	/^    def __ReadDict(dic, filename, typeK, typeV):$/;"	m	class:GlobalInfo	file:
+__WriteDict	pymining/common/global_info.py	/^    def __WriteDict(dic, filename):$/;"	m	class:GlobalInfo	file:
+__init__	pymining/classifier/naive_bayes.py	/^    def __init__(self, config, nodeName, loadFromFile = False):$/;"	m	class:NaiveBayes
+__init__	pymining/classifier/twc_naive_bayes.py	/^    def __init__(self, config, nodeName, loadFromFile = False):$/;"	m	class:TwcNaiveBayes
+__init__	pymining/clustering/kmeans.py	/^    def __init__(self):$/;"	m	class:Kmeans
+__init__	pymining/common/configuration.py	/^    def __init__(self, node):$/;"	m	class:Configuration
+__init__	pymining/math/matrix.py	/^    def __init__(self, row, col, val):$/;"	m	class:Tripple
+__init__	pymining/math/matrix.py	/^    def __init__(self, rows, cols, vals, nRow = -1, nCol = -1):$/;"	m	class:Matrix
+__init__	pymining/math/pca.py	/^    def __init__(self):$/;"	m	class:Pca
+__init__	pymining/math/text2matrix.py	/^    def __init__(self, config, nodeName, loadFromFile = False):$/;"	m	class:Text2Matrix
+__init__	pymining/nlp/segmenter.py	/^    def __init__(self, config, nodeName):$/;"	m	class:Segmenter
+__init__	pymining/preprocessor/chisquare_filter.py	/^    def __init__(self, config, nodeName, loadFromFile = False):$/;"	m	class:ChiSquareFilter
+ax	pca_matplot_example.py	/^    ax = fig.add_subplot(111)$/;"	v
+bisect	pymining/math/matrix.py	/^import bisect$/;"	i
+cbook	pca_matplot_example.py	/^import matplotlib.cbook as cbook$/;"	i
+chiFilter	naive_bayes_only_test.py	/^    chiFilter = ChiSquareFilter(config, "__filter__", True)$/;"	v
+chiFilter	naive_bayes_train_test.py	/^    chiFilter = ChiSquareFilter(config, "__filter__")$/;"	v
+chiFilter	naive_bayes_train_test_bysample.py	/^    chiFilter = ChiSquareFilter(config, "__filter__")$/;"	v
+chiFilter	pca_matplot_example.py	/^    chiFilter = ChiSquareFilter(config, "__filter__")$/;"	v
+chiFilter	twc_naive_bayes_train_test.py	/^    chiFilter = ChiSquareFilter(config, "__filter__")$/;"	v
+chiFilter	twc_naive_bayes_train_test_bysample.py	/^    chiFilter = ChiSquareFilter(config, "__filter__")$/;"	v
+classToDocCount	pymining/common/global_info.py	/^    classToDocCount = {}$/;"	v	class:GlobalInfo
+clusteringOut	kmeans_test.py	/^    clusteringOut = kmeans.Cluster(x, 2)$/;"	v
+colors	pca_matplot_example.py	/^    colors = []$/;"	v
+config	kmeans_test.py	/^    config = Configuration.FromFile("conf\/test.xml")$/;"	v
+config	naive_bayes_only_test.py	/^    config = Configuration.FromFile("conf\/test.xml")$/;"	v
+config	naive_bayes_train_test.py	/^    config = Configuration.FromFile("conf\/test.xml")$/;"	v
+config	naive_bayes_train_test_bysample.py	/^    config = Configuration.FromFile("conf\/test.xml")$/;"	v
+config	pca_matplot_example.py	/^    config = Configuration.FromFile("conf\/test.xml")$/;"	v
+config	pca_test.py	/^    config = Configuration.FromFile("conf\/test.xml")$/;"	v
+config	pymining/math/text2matrix.py	/^    config = Configuration.FromFile("conf\/test.xml")$/;"	v	class:Text2Matrix
+config	twc_naive_bayes_train_test.py	/^    config = Configuration.FromFile("conf\/test.xml")$/;"	v
+config	twc_naive_bayes_train_test_bysample.py	/^    config = Configuration.FromFile("conf\/test.xml")$/;"	v
+curNode	pymining/common/global_info.py	/^    curNode = None$/;"	v	class:GlobalInfo
+fig	pca_matplot_example.py	/^    fig = plt.figure()$/;"	v
+idToDocCount	pymining/common/global_info.py	/^    idToDocCount = {}$/;"	v	class:GlobalInfo
+idToIdf	pymining/common/global_info.py	/^    idToIdf = {}$/;"	v	class:GlobalInfo
+idToTerm	pymining/common/global_info.py	/^    idToTerm = {}$/;"	v	class:GlobalInfo
+inputStr	naive_bayes_train_test_bysample.py	/^    inputStr = "仅售28元！原价698元的康迩福韩国美容美体中心的韩国特色美容套餐1份（紫莱花园店、时代奥城店2店通用）：韩国特色面部SPA护理1次+韩国特色面部瘦脸加毛孔净化1次+韩国特色水"$/;"	v
+inputStr	twc_naive_bayes_train_test_bysample.py	/^    inputStr = "仅售59元！原价108元的花园巴西烤肉自助餐一人次任吃（蛇口店、购物公园店全时段通用），另赠送两张10元现金抵用券！邀请好友返利10元！"$/;"	v
+isInit	pymining/common/global_info.py	/^    isInit = False$/;"	v	class:GlobalInfo
+kmeans	kmeans_test.py	/^    kmeans = Kmeans()$/;"	v
+linalg	pymining/math/pca.py	/^import scipy.sparse.linalg$/;"	i
+mCurNode	pymining/common/configuration.py	/^    mCurNode = None$/;"	v	class:Configuration
+math	pymining/classifier/naive_bayes.py	/^import math$/;"	i
+math	pymining/classifier/twc_naive_bayes.py	/^import math$/;"	i
+math	pymining/clustering/kmeans.py	/^import math$/;"	i
+math	pymining/math/text2matrix.py	/^import math$/;"	i
+math	twc_naive_bayes_train_test.py	/^import math$/;"	i
+math	twc_naive_bayes_train_test_bysample.py	/^import math$/;"	i
+matplotlib	pca_matplot_example.py	/^import matplotlib$/;"	i
+matplotlib	pca_matplot_example.py	/^import matplotlib.cbook as cbook$/;"	i
+matplotlib	pca_matplot_example.py	/^import matplotlib.mlab as mlab$/;"	i
+matplotlib	pca_matplot_example.py	/^import matplotlib.pyplot as plt$/;"	i
+minidom	pymining/common/configuration.py	/^from xml.dom import minidom$/;"	i
+mlab	pca_matplot_example.py	/^import matplotlib.mlab as mlab$/;"	i
+nameClassToDocCount	pymining/common/global_info.py	/^    nameClassToDocCount = ""$/;"	v	class:GlobalInfo
+nameIdToDocCount	pymining/common/global_info.py	/^    nameIdToDocCount = ""$/;"	v	class:GlobalInfo
+nameIdToIdf	pymining/common/global_info.py	/^    nameIdToIdf = ""$/;"	v	class:GlobalInfo
+nameIdToTerm	pymining/common/global_info.py	/^    nameIdToTerm = ""$/;"	v	class:GlobalInfo
+nameTermToId	pymining/common/global_info.py	/^    nameTermToId = ""$/;"	v	class:GlobalInfo
+nbModel	naive_bayes_only_test.py	/^    nbModel = NaiveBayes(config, "naive_bayes", True)$/;"	v
+nbModel	naive_bayes_train_test.py	/^    nbModel = NaiveBayes(config, "naive_bayes")$/;"	v
+nbModel	naive_bayes_train_test_bysample.py	/^    nbModel = NaiveBayes(config, "naive_bayes")$/;"	v
+nbModel	twc_naive_bayes_train_test.py	/^    nbModel = TwcNaiveBayes(config, "twc_naive_bayes")$/;"	v
+nbModel	twc_naive_bayes_train_test_bysample.py	/^    nbModel = TwcNaiveBayes(config, "twc_naive_bayes")$/;"	v
+numpy	pca_matplot_example.py	/^import numpy$/;"	i
+numpy	pymining/math/pca.py	/^import numpy$/;"	i
+numpy	pymining/math/scipy_interface.py	/^import numpy$/;"	i
+os	kmeans_test.py	/^import sys, os$/;"	i
+os	naive_bayes_only_test.py	/^import sys, os$/;"	i
+os	naive_bayes_train_test.py	/^import sys, os$/;"	i
+os	naive_bayes_train_test_bysample.py	/^import sys, os$/;"	i
+os	pca_matplot_example.py	/^import sys, os$/;"	i
+os	pca_test.py	/^import sys, os$/;"	i
+os	twc_naive_bayes_train_test.py	/^import sys,os$/;"	i
+os	twc_naive_bayes_train_test_bysample.py	/^import sys, os$/;"	i
+os	twc_naive_bayes_train_test_bysample.py	/^import sys,os$/;"	i
+pca	pca_matplot_example.py	/^    pca = Pca()$/;"	v
+pca	pca_test.py	/^    pca = Pca()$/;"	v
+pickle	pymining/classifier/naive_bayes.py	/^import pickle$/;"	i
+pickle	pymining/classifier/twc_naive_bayes.py	/^import pickle$/;"	i
+pickle	pymining/clustering/kmeans.py	/^import pickle$/;"	i
+pickle	twc_naive_bayes_train_test.py	/^import pickle$/;"	i
+pickle	twc_naive_bayes_train_test_bysample.py	/^import pickle$/;"	i
+plt	pca_matplot_example.py	/^import matplotlib.pyplot as plt$/;"	i
+prinCompX	pca_matplot_example.py	/^    prinCompX = pca.GetPrinComp(trainx, "col")$/;"	v
+prinCompX	pca_test.py	/^    prinCompX = pca.GetPrinComp(trainx, "col")$/;"	v
+probTuple	naive_bayes_train_test_bysample.py	/^    probTuple = nbModel.TestSample(cols, vals)$/;"	v
+random	pymining/clustering/kmeans.py	/^import random$/;"	i
+random	pymining/math/matrix.py	/^import random$/;"	i
+retY	twc_naive_bayes_train_test.py	/^    retY = nbModel.TestMatrix(testx, testy)$/;"	v
+retY	twc_naive_bayes_train_test_bysample.py	/^    retY = nbModel.TestSample(cols, vals)$/;"	v
+scipy	pymining/math/pca.py	/^import scipy$/;"	i
+scipy	pymining/math/pca.py	/^import scipy.sparse.linalg$/;"	i
+sparse	pymining/math/pca.py	/^import scipy.sparse.linalg$/;"	i
+sys	kmeans_test.py	/^import sys, os$/;"	i
+sys	naive_bayes_only_test.py	/^import sys, os$/;"	i
+sys	naive_bayes_train_test.py	/^import sys, os$/;"	i
+sys	naive_bayes_train_test_bysample.py	/^import sys, os$/;"	i
+sys	pca_matplot_example.py	/^import sys, os$/;"	i
+sys	pca_test.py	/^import sys, os$/;"	i
+sys	pymining/classifier/twc_naive_bayes.py	/^import sys$/;"	i
+sys	pymining/clustering/kmeans.py	/^import sys$/;"	i
+sys	twc_naive_bayes_train_test.py	/^import sys,os$/;"	i
+sys	twc_naive_bayes_train_test_bysample.py	/^import sys$/;"	i
+sys	twc_naive_bayes_train_test_bysample.py	/^import sys, os$/;"	i
+sys	twc_naive_bayes_train_test_bysample.py	/^import sys,os$/;"	i
+termToId	pymining/common/global_info.py	/^    termToId = {} $/;"	v	class:GlobalInfo
+txt2mat	kmeans_test.py	/^    txt2mat = Text2Matrix(config, "__matrix__")$/;"	v
+txt2mat	naive_bayes_only_test.py	/^    txt2mat = Text2Matrix(config, "__matrix__", True)$/;"	v
+txt2mat	naive_bayes_train_test.py	/^    txt2mat = Text2Matrix(config, "__matrix__")$/;"	v
+txt2mat	naive_bayes_train_test_bysample.py	/^    txt2mat = Text2Matrix(config, "__matrix__")$/;"	v
+txt2mat	pca_matplot_example.py	/^    txt2mat = Text2Matrix(config, "__matrix__", False)$/;"	v
+txt2mat	pca_test.py	/^    txt2mat = Text2Matrix(config, "__matrix__", False)$/;"	v
+txt2mat	pymining/math/text2matrix.py	/^    txt2mat = Text2Matrix(config, "__matrix__")$/;"	v	class:Text2Matrix
+txt2mat	twc_naive_bayes_train_test.py	/^    txt2mat = Text2Matrix(config, "__matrix__")$/;"	v
+txt2mat	twc_naive_bayes_train_test_bysample.py	/^    txt2mat = Text2Matrix(config, "__matrix__")$/;"	v
+xOffsets	pca_matplot_example.py	/^    xOffsets = []$/;"	v
+yOffsets	pca_matplot_example.py	/^    yOffsets = []$/;"	v

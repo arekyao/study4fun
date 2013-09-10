@@ -1,0 +1,15 @@
+Handler	HelloWorld.h	/^  typedef HelloWorldIf Handler;$/
+MHelloWorld_server.skeleton.cpp	HelloWorld_server.skeleton.cpp	/^int main(int argc, char **argv) {$/
+ProcessMap	HelloWorld.h	/^  typedef std::map<std::string, ProcessFunction> P/
+_HelloWorld_sayHello_presult__isset	HelloWorld.h	/^} _HelloWorld_sayHello_presult__isset;$/
+_HelloWorld_sayHello_result__isset	HelloWorld.h	/^} _HelloWorld_sayHello_result__isset;$/
+dispatchCall	HelloWorld.cpp	/^bool HelloWorldProcessor::dispatchCall(::apache::t/
+getProcessor	HelloWorld.cpp	/^::boost::shared_ptr< ::apache::thrift::TProcessor /
+helloworldConstants	helloworld_constants.cpp	/^helloworldConstants::helloworldConstants() {$/
+process_sayHello	HelloWorld.cpp	/^void HelloWorldProcessor::process_sayHello(int32_t/
+read	HelloWorld.cpp	/^uint32_t HelloWorld_sayHello_args::read(::apache::/
+recv_sayHello	HelloWorld.cpp	/^void HelloWorldClient::recv_sayHello(std::string& /
+sayHello	HelloWorld.cpp	/^void HelloWorldClient::sayHello(std::string& _retu/
+send_sayHello	HelloWorld.cpp	/^void HelloWorldClient::send_sayHello()$/
+void	HelloWorld.h	/^  typedef  void (HelloWorldProcessor::*ProcessFunc/
+write	HelloWorld.cpp	/^uint32_t HelloWorld_sayHello_args::write(::apache:/
